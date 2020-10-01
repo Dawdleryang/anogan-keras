@@ -6,5 +6,6 @@ How to Run:
 
 #train & test
 python main_credit.py --mode train --epoch xx (--label_idx 0/1  --img_idx yy)
+
 #test only
 python main_credit.py (--label_idx 0/1  --img_idx yy)
